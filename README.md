@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Dsa,Iot,Competetive Coding**
 
-- 💬 Ask me about **Computer Networks,Web Development,Flutter,Dsa**
+- 💬 Ask me about **Computer Networks,Web Development,Flutter,Dsa,Dbms,Computer Organization and Architecture,Operating System**
 
 - 📫 How to reach me **raushanranjan103@gmail.com**
 
