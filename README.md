@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/raushan94598098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raushan94598098" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/raushan-ranjan-9585101a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/raushan-ranjan-9585101a0" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/raushan_103" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raushan_103" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/raushanranjan103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raushanranjan103" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/raushan_103" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="raushan_103" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raushanranjan103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raushanranjan103" height="30" width="40" /></a>
